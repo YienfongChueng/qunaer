@@ -1,0 +1,237 @@
+{
+    "status" : "success",
+    "data" : {
+        "city" : "广州",
+        "bannerList": [
+            {
+                "id": "002",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+            },
+            {
+                "id": "003",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+            },
+            {
+                "id": "004",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+            },
+            {
+                "id": "005",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+            }
+        ],
+        "iconList": [
+            {
+                "id": "001",
+                "iconUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/158387fe5376294f3776d01358d6b73b.png",
+                "desc": "经典门票"
+            },
+            {
+                "id": "002",
+                "iconUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/69e8b07cb2d438c5530aebd4c8e3abd3.png",
+                "desc": "一日游"
+            },
+            {
+                "id": "003",
+                "iconUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/b7a5e6b1774eda4fc9e32588f1d00c94.png",
+                "desc": "踏青赏花"
+            },
+            {
+                "id": "004",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+                "desc": "动植物园"
+            },
+            {
+                "id": "005",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+                "desc": "自然风光"
+            },
+            {
+                "id": "006",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+                "desc": "珠江夜游"
+            },
+            {
+                "id": "007",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                "desc": "城市观光"
+            },
+            {
+                "id": "008",
+                "iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+                "desc": "主题乐园"
+            },
+            {
+                "id": "009",
+                "iconUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+                "desc": "泡温泉"
+            }
+        ],
+        "hotList": [
+            {
+                "id": "001",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/de/de0775c07108df3a3.water.jpg_250x250_445134a4.jpg",
+                "title": "长隆水上乐园",
+                "price": "94.5",
+                "rankTag": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png"
+            },
+            {
+                "id": "002",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/6d/6da8a20b21da1340a3.water.jpg_250x250_ba855118.jpg",
+                "title": "长隆野生动物园",
+                "price": "207",
+                "rankTag": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png"
+            },
+            {
+                "id": "003",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201309/06/a03726324b885c8bc8d65eac.jpg_250x250_468addc5.jpg",
+                "title": "广州塔",
+                "price": "93",
+                "rankTag": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png"
+            },
+            {
+                "id": "004",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_250x250_8f1dcbbd.jpg",
+                "title": "珠江夜游",
+                "price": "44.5"
+            },
+            {
+                "id": "005",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/ee/ee3013caaa28ae7490.water.jpg_250x250_a4d01a0f.jpg",
+                "title": "增城白水寨风景名胜区",
+                "price": "50.5"
+            },
+            {
+                "id": "006",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1809/56/5639ccfd58c4cca4a3.img.png_250x250_e8f9a22a.png",
+                "title": "广州正佳极地海洋世界",
+                "price": "88"
+            },
+            {
+                "id": "007",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/de/de0775c07108df3a3.water.jpg_250x250_445134a4.jpg",
+                "title": "长隆水上乐园",
+                "price": "94.5"
+            },
+            {
+                "id": "008",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/de/de0775c07108df3a3.water.jpg_250x250_445134a4.jpg",
+                "title": "长隆水上乐园",
+                "price": "94.5"
+            },
+            {
+                "id": "009",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/de/de0775c07108df3a3.water.jpg_250x250_445134a4.jpg",
+                "title": "长隆水上乐园",
+                "price": "94.5"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "001",
+                "title": "长隆野生动物世界",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/6d/6da8a20b21da1340a3.water.jpg_200x200_a8ccf617.jpg",
+                "star": 5,
+                "reviewCount": 145613,
+                "price": "187.4",
+                "address": "广州长隆野生动物世界",
+                "tag": "随买随用"
+            },
+            {
+                "id": "002",
+                "title": "长隆欢乐世界",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/ca/ca82c6666e1b269a3.water.jpg_200x200_4eac3547.jpg",
+                "star": 4,
+                "reviewCount": 12367,
+                "price": "200",
+                "address": "长隆欢乐世界",
+                "tag": "随买随用"
+            },
+            {
+                "id": "003",
+                "title": "长隆水上乐园",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/2008/6d/6da8a20b21da1340a3.water.jpg_200x200_a8ccf617.jpg",
+                "star": 5,
+                "reviewCount": 59964,
+                "price": "75",
+                "address": "长隆水上乐园",
+                "tag": "随买随用"
+            },
+            {
+                "id": "004",
+                "title": "宝墨园",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/20/208ed6bc971a41cf90.img.jpg_200x200_50c7ca89.jpg",
+                "star": 3,
+                "reviewCount": 6899,
+                "price": "187.4",
+                "address": "番禺区",
+                "tag": "可订明日"
+            },
+            {
+                "id": "005",
+                "title": "珠江夜游",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_200x200_ff903759.jpg",
+                "star": 5,
+                "reviewCount": 19454,
+                "price": "55",
+                "address": "天河区",
+                "tag": "随买随用"
+            },
+            {
+                "id": "006",
+                "title": "广州塔",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201309/06/a03726324b885c8bc8d65eac.jpg_200x200_109f2c42.jpg",
+                "star": 5,
+                "reviewCount": 145613,
+                "price": "105",
+                "address": "海珠区",
+                "tag": "随买随用"
+            },
+            {
+                "id": "007",
+                "title": "广州正佳极地海洋世界",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1809/56/5639ccfd58c4cca4a3.img.png_200x200_0027165c.png",
+                "star": 5,
+                "reviewCount": 15910,
+                "price": "95",
+                "address": "天河区",
+                "tag": "可订今日"
+            },
+            {
+                "id": "008",
+                "title": "西关老屋",
+                "imgUrl": "http://img1.qunarzz.com/sight/p90/201211/01/c142528b5b2c727c93835fbb.jpg_200x200_b6a741e0.jpg",
+                "star": 3,
+                "reviewCount": 11,
+                "price": "288",
+                "address": "荔湾区"
+            }
+        ],
+        "weekendList": [
+            {
+                "id": "001",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+                "title": "清远周边逛",
+                "desc": "人人都有一双发现美的眼睛，周边的事物最熟悉不过,那你可曾发现了被人遗漏的美？"
+            },
+            {
+                "id": "002",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+                "title": "浮在海上的绿洲",
+                "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+            },
+            {
+                "id": "003",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+                "title": "广州必打卡",
+                "desc": "感受现代与传统相融合的广州"
+            },
+            {
+                "id": "004",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg",
+                "title": "阳江温泉知多少",
+                "desc": "这里的天空和大海让人心旷神怡，配上舒缓的优美音乐，泡个暖暖的温泉岂不美哉"
+            }
+        ]
+    }
+}
